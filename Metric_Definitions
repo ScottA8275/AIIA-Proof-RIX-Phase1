@@ -1,0 +1,394 @@
+Proof RIX Phase I
+Canonical Metric Definitions
+Version 1.0 (Locked)
+Purpose
+
+This document defines the canonical metrics used throughout:
+
+Proof RIX Phase I,
+Milestones 2–10,
+and the public reproducibility framework.
+
+These metrics were designed to:
+
+- quantify recursive transport organization,
+- measure transfer stability,
+- characterize fragmentation behavior,
+- map topology-defined transport regimes.
+
+The metric layer intentionally emphasizes:
+
+- interpretability,
+- transport behavior,
+- recursive organization,
+- topology structure
+
+rather than:
+
+opaque embedding-space similarity alone.
+Canonical Metric Layer
+
+Proof RIX Phase I consolidates the framework into four primary metrics:
+
+Metric	Purpose
+Recursive Capacity Efficiency (RCE)	transfer retained per recursive capacity
+Transport Robustness Score (TRS)	perturbation stability
+Bottleneck Dominance (BD)	transport concentration stress
+Phase Stability Index (PSI)	distance from fragmentation boundaries
+
+These metrics collectively define:
+
+recursive transport topology behavior.
+1. Recursive Capacity Efficiency (RCE)
+Definition
+
+Recursive Capacity Efficiency measures:
+
+how efficiently meaningful transport organization is preserved under recursive compression.
+
+RCE captures:
+
+transport retained,
+transfer retained,
+and stabilization retained
+
+per unit recursive representational capacity.
+
+Intuition
+
+High RCE systems:
+
+preserve transfer under aggressive compression,
+maintain recursive organization efficiently,
+and exhibit compact transport structure.
+
+Low RCE systems:
+
+require inflated recursive capacity,
+fragment under compression,
+and lose transport continuity rapidly.
+Conceptual Formula
+
+RCE=
+C
+T
+	​
+
+
+Where:
+
+T = retained transport / transfer performance
+C = recursive representational capacity
+Typical Inputs
+Variable	Examples
+transfer metric	Spearman ρ
+recursive capacity	recursive dimensions, recursive depth
+transport continuity	shortest-path preservation
+stabilization	recursive stability metrics
+Interpretation
+RCE Value	Interpretation
+high	compact efficient transport
+medium	transitional organization
+low	inflated unstable transport
+Biological Interpretation
+
+High RCE suggests:
+
+compact admissibility organization,
+recursively stabilizable transport geometry,
+and efficient multiscale structure.
+Primary Milestones
+Milestone	Role
+7	primary metric
+8	fragmentation inflation tracking
+9	cross-regime comparison
+2. Transport Robustness Score (TRS)
+Definition
+
+Transport Robustness Score measures:
+
+stability of recursive transport organization under perturbation.
+
+TRS quantifies:
+
+perturbation tolerance,
+transport continuity,
+and stabilization persistence.
+Intuition
+
+High TRS systems:
+
+preserve transport coherence under stress,
+delay fragmentation,
+and maintain recursive stability.
+
+Low TRS systems:
+
+fragment rapidly,
+exhibit recursive destabilization,
+and lose phenotype continuity.
+Conceptual Formula
+
+TRS=1−D
+p
+	​
+
+
+Where:
+
+D
+p
+	​
+
+ = normalized perturbation-induced drift
+Typical Inputs
+Variable	Examples
+phenotype drift	perturbation-induced phenotype divergence
+transport integrity	connectivity retention
+spectral cohesion	spectral gap
+recursive stability	recursive curvature stability
+Interpretation
+TRS Value	Interpretation
+high	perturbation robust
+medium	transitional
+low	fragmentation-sensitive
+Biological Interpretation
+
+High TRS systems preserve:
+
+stable admissibility structure,
+rerouting flexibility,
+and recursive transport coherence.
+Primary Milestones
+Milestone	Role
+7B	stabilization
+8	perturbation robustness
+10	transport phase organization
+3. Bottleneck Dominance (BD)
+Definition
+
+Bottleneck Dominance measures:
+
+the degree to which transport depends on concentrated transport pathways.
+
+BD quantifies:
+
+transport concentration,
+bottleneck stress,
+and rerouting limitations.
+Intuition
+
+High BD systems:
+
+rely on fragile transport bottlenecks,
+exhibit fragmentation sensitivity,
+and possess weak rerouting structure.
+
+Low BD systems:
+
+distribute transport broadly,
+support rerouting,
+and maintain stable connectivity.
+Conceptual Formula
+
+BD=max(B
+e
+	​
+
+)
+
+Where:
+
+B
+e
+	​
+
+ = edge betweenness centrality
+Typical Inputs
+Variable	Examples
+edge betweenness	max edge betweenness
+bottleneck density	topological concentration
+curvature variance	transport stress
+rerouting availability	alternate path density
+Interpretation
+BD Value	Interpretation
+high	fragile bottleneck transport
+medium	mixed organization
+low	distributed resilient transport
+Biological Interpretation
+
+High BD systems:
+
+concentrate transport load,
+exhibit fragmentation-sensitive organization,
+and possess weak redundancy.
+
+Low BD systems:
+
+preserve alternate transport routes,
+stabilize recursive organization,
+and support perturbation tolerance.
+Primary Milestones
+Milestone	Role
+6	bottleneck analysis
+9	regime separation
+10	causal topology intervention
+4. Phase Stability Index (PSI)
+Definition
+
+Phase Stability Index measures:
+
+distance from fragmentation-sensitive transport phase boundaries.
+
+PSI quantifies:
+
+recursive stability,
+spectral cohesion,
+fragmentation proximity,
+and transport regime organization.
+Intuition
+
+High PSI systems:
+
+occupy stable robust transport regions,
+preserve recursive continuity,
+and resist perturbation collapse.
+
+Low PSI systems:
+
+approach fragmentation thresholds,
+inflate recursive capacity,
+and destabilize rapidly.
+Conceptual Formula
+
+PSI=S−F
+
+Where:
+
+S = stabilization signal
+F = fragmentation pressure
+Typical Inputs
+Variable	Examples
+spectral gap	global cohesion
+fragmentation risk	recursive collapse
+redundancy	alternate path availability
+RTCT inflation	recursive stress
+Interpretation
+PSI Value	Interpretation
+high	robust stable region
+medium	transitional region
+low	fragmentation boundary
+Biological Interpretation
+
+High PSI systems preserve:
+
+stable recursive transport,
+coherent multiscale organization,
+and robust admissibility structure.
+Primary Milestones
+Milestone	Role
+8	fragmentation boundaries
+9	topology regimes
+10C	phase-boundary theory
+Secondary Metrics
+
+The following metrics remain useful but are considered:
+
+secondary/supporting metrics.
+Metric	Purpose
+RTCT	recursive transfer threshold
+phenotype drift	perturbation continuity
+curvature variance	transport flattening
+spectral gap	cohesion
+transport integrity	connectivity preservation
+path distortion	navigability preservation
+
+These support:
+
+mechanistic interpretation,
+figure generation,
+and deeper topology analysis.
+Recursive Transfer Capacity Threshold (RTCT)
+Definition
+
+RTCT is defined as:
+
+the minimum recursive representational capacity required to achieve a specified transfer threshold.
+
+Example Thresholds
+Threshold	Interpretation
+ρ ≥ 0.05	weak transfer
+ρ ≥ 0.10	meaningful transfer
+ρ ≥ 0.15	strong transfer
+Interpretation
+
+Lower RTCT:
+
+more compact transport geometry,
+stronger recursive efficiency,
+and greater transfer compatibility.
+
+Higher RTCT:
+
+recursive capacity inflation,
+fragmentation-sensitive transport,
+and weak stabilization.
+Metric Philosophy
+
+The Proof RIX metric layer is designed to measure:
+
+transport organization rather than static similarity.
+
+The framework prioritizes:
+
+valid transformations,
+recursive organization,
+admissibility structure,
+rerouting behavior,
+and multiscale transport coherence.
+
+This differs fundamentally from:
+
+unconstrained embedding similarity,
+purely feature-space distances,
+or static coordinate organization.
+Canonical Interpretation Hierarchy
+
+The recommended interpretation order is:
+
+Topology Structure
+        ↓
+Transport Organization
+        ↓
+Recursive Stabilization
+        ↓
+Transfer Compatibility
+        ↓
+Fragmentation Behavior
+        ↓
+Phase Stability
+
+This hierarchy defines the current:
+
+Proof RIX Phase I transport-topology framework.
+Status
+Canonical Metric Layer
+Status: Locked for Proof RIX Phase I
+
+Future phases may:
+
+refine formulations,
+derive stronger mathematical formalization,
+or introduce additional transport invariants.
+
+However:
+
+RCE,
+TRS,
+BD,
+PSI,
+and RTCT
+
+currently define the:
+
+canonical public evaluation layer for Proof RIX Phase I.
