@@ -1,6 +1,6 @@
 # AIIA-Proof-RIX-Phase1: Recursive Transport Topology
 
-**Canonical Metric Definitions**
+## Canonical Metric Definitions
 Version 1.0 (Locked)
 
 ### Purpose
