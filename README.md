@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 
-**Admissibility-constrained recursive organization induces compact, transferable, and causally manipulable transport geometry.**
+## Admissibility-constrained recursive organization induces compact, transferable, and causally manipulable transport geometry.
 
 ### Core Thesis
 Biological organization is governed by **admissibility-constrained recursive transport topology** — not merely local feature similarity.
