@@ -6,29 +6,26 @@ Version 1.0 (Locked)
 ### Purpose
 
 This document defines the canonical metrics used throughout:
-
-Proof RIX Phase I,
-Milestones 2–10,
-and the public reproducibility framework.
+-	Proof RIX Phase 1 
+-	Milestones 2–10 
+-	public reproducibility framework 
 
 These metrics were designed to:
-
-**quantify recursive transport organization**
-**measure transfer stability**
-**characterize fragmentation behavior**
-**map topology-defined transport regimes**
+-	quantify recursive transport organization 
+-	measure transfer stability 
+-	characterize fragmentation behavior 
+-	map topology-defined transport regimes 
 
 The metric layer intentionally emphasizes:
-
-interpretability,
-transport behavior,
-recursive organization,
-and topology structure
+-	interpretability 
+-	transport behavior 
+-	recursive organization 
+-	topology structure 
 
 rather than:
+-	opaque embedding-space similarity alone 
 
-opaque embedding-space similarity alone.
-Canonical Metric Layer
+### Canonical Metric Layer
 
 Proof RIX Phase I consolidates the framework into four primary metrics:
 
