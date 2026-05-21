@@ -1,6 +1,5 @@
 # AIIA-Proof-RIX-Phase1: Recursive Transport Topology
 
-# Proof RIX Phase I  
 **Recursive Transport Topology in Biological Systems**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
