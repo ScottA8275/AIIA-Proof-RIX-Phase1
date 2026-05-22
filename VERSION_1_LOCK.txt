@@ -1,0 +1,33 @@
+VERSION_1_LOCK.txt
+
+Proof RIX Phase I Reproducibility Package
+Version: 1.0
+
+Status: LOCKED
+
+Date Locked: 2026-05-22
+Scope:
+•	Milestones 7–10 canonical reproducibility layer
+•	Canonical transport-topology metrics
+•	Deterministic figure regeneration
+•	Recursive transport phase-boundary analysis
+•	Causal topology intervention reproduction
+
+Canonical Public Figures:
+•	figure2_rtct_capacity_curves.png
+•	figure3_fragmentation_boundary_regions.png
+•	figure4_comparative_transport_regimes.png
+•	figure5_gb1_robustness_profile.png
+•	figure6_predictive_phase_diagram.png
+•	figure7_clustering_intervention.png
+•	figure8_recursive_transport_phase_map.png
+•	figure9_spectral_gap_phase_separation.png
+
+Canonical Metrics:
+•	Recursive Capacity Efficiency (RCE)
+•	Transport Robustness Score (TRS)
+•	Bottleneck Dominance (BD)
+•	Phase Stability Index (PSI)
+•	Recursive Transfer Capacity Threshold (RTCT)
+
+This version represents the locked public reproducibility layer for Proof RIX Phase I.
