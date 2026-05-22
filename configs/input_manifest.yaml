@@ -1,0 +1,22 @@
+required_inputs:
+  - recursive_capacity_sweep.csv
+  - fragmentation_phase_regions.csv
+  - gb1_compression_summary.csv
+  - gb1_locality_summary.csv
+  - gb1_perturbation_summary.csv
+  - comparative_transport_summary.csv
+  - phase_boundary_predictions.csv
+  - synthetic_transport_manipulation.csv
+  - topology_phase_grid.csv
+  - stability_transition_summary.csv
+  - fragmentation_transition_curves.csv
+
+canonical_figures:
+  - figure2_rtct_capacity_curves.png
+  - figure3_fragmentation_boundary_regions.png
+  - figure4_comparative_transport_regimes.png
+  - figure5_gb1_robustness_profile.png
+  - figure6_predictive_phase_diagram.png
+  - figure7_clustering_intervention.png
+  - figure8_recursive_transport_phase_map.png
+  - figure9_spectral_gap_phase_separation.png

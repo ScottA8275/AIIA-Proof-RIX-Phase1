@@ -1,0 +1,4 @@
+condition,nodes,edges,components,largest_component_nodes,avg_degree,node_compression_vs_admissible,edge_reduction_vs_admissible
+ungated,5000,41821,1,5000,16.7284,0.0,0.08109949024433116
+admissible,5000,45512,1,5000,18.2048,0.0,0.0
+compressed,889,16714,1,889,37.60179977502812,0.8222,0.6327561961680436
