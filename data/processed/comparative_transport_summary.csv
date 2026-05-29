@@ -1,3 +1,0 @@
-system,transport_type,fragmentation_observed,min_largest_component,curvature_variance_start,curvature_variance_end,curvature_variance_reduction,mean_phenotype_drift,drift_variation,n_unique_phases,dominant_phase,min_largest_component_proxy,rtct_start,rtct_end
-GB1,dense_redundant,False,1.0,715.7026735670007,32.7622469189081,0.9542236628017277,0.1499920085433815,0.004832175483773099,1.0,rerouting,,,
-GFP_compatible,sparse_structured,True,,151438.11827292063,38.53033629632672,0.999745570423512,5574.587502742481,1444.730388856371,,,0.0,2.0,
