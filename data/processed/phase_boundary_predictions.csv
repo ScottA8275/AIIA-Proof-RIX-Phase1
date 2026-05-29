@@ -1,0 +1,3 @@
+system,robustness_score,fragmentation_risk,predicted_phase_region,interpretation
+GB1,2,-1,robust,High redundancy and rerouting capacity predict perturbation-robust transport behavior.
+GFP_compatible,-1,1,fragmentation_sensitive,High bottleneck concentration and low redundancy predict fragmentation-sensitive transport behavior.
